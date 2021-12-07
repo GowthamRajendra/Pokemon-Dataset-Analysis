@@ -26,9 +26,9 @@ Ivan Wang (Ivan-WangJianBin)
     ![](/images/pic4.png)
 
 ### Best Type for each generation?
-  When we started the research and analysis, we expected the three starter typings of Fire, Water or Grass to be the most effective type to use in every generation. And if they are not, then maybe other popular types such as Psychic, Dark, Fighting, Flying, Electric, or Dragon to be the most effective, but interestingly enough, types that are not as popular as the ones mentioned above came at the top. We did not expect types such as Rock and Ice to end up as the most effective type to use in most generations. The graph shows that using Rock and Ice types throughout multiple generations is the most effective strategy, this is an interesting finding since it allows anyone that looks at the graph to know what kind of Pokemon types they should use if they want an easier time playing in that generation. 
-      ![](/images/pic5.png)
-      ![](/images/pic6.png)
+  When we started the research and analysis, we expected the three starter typings of Fire, Water or Grass to be the most effective type to use in every generation. And if they are not, then maybe other popular types such as Psychic, Dark, Fighting, Flying, Electric, or Dragon to be the most effective, but interestingly enough, types that are not as popular as the ones mentioned above came at the top. We did not expect types such as Rock and Ice to end up as the most effective type to use in most generations. The graph shows that using Rock and Ice types throughout multiple generations is the most effective strategy, this is an interesting finding since it allows anyone that looks at the graph to know what kind of Pokemon types they should use if they want an easier time playing in that generation.                                             <br/>
+![](/images/pic5.png)
+![](/images/pic6.png)
 
 ## Conclusion
 ### Reflection
