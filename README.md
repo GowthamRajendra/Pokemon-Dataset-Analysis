@@ -38,3 +38,5 @@ Ivan Wang (Ivan-WangJianBin)
   In this analysis, there were many minor errors such as combining regional variants with their normal counterparts which caused the typings to be incorrect and some values were missing. An improvement for next time would be to have a dataset that differentiates different pokemon forms better and has more data that are useful than ones that we never used such as happiness, classification, etc.
 
     
+### Acknowledgements
+This project was submitted as the final course project for CSCI 2000U “Scientific Data Analysis” during Fall 2021. The authors certify that the work in this repository is original and that all appropriate resources are rightfully cited.
