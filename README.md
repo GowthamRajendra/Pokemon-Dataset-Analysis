@@ -40,3 +40,12 @@ Ivan Wang (Ivan-WangJianBin)
     
 ### Acknowledgements
 This project was submitted as the final course project for CSCI 2000U “Scientific Data Analysis” during Fall 2021. The authors certify that the work in this repository is original and that all appropriate resources are rightfully cited.
+
+## Bibliography
+- thestrongstylesmarks. (2019, January 6). Ranking All 7 Pokemon Generations. The Strong Style Smark. https://thestrongstylesmark.home.blog/2019/01/06/ranking-all-7-pokemon-generations/
+- Pokemaster. (2008). Pokemon Database. Pokemon Database. https://pokemondb.net/
+
+# README
+- This is an analysis of "The Complete Pokemon Dataset" obtained from https://www.kaggle.com/rounakbanik/pokemon. 
+- The source code can be ran as long python3 and pandas are installed.
+- The contributors are Gowtham Rajendra (GowthamRajendra), Ravi Pogaku (Ravi-Pogaku) and Ivan Wang (Ivan-WangJianBin)
